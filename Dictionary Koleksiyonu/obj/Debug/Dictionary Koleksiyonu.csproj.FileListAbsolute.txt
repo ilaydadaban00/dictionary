@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Dictionary Koleksiyonu\Dictionary Koleksiyonu\bin\Debug\Dictionary Koleksiyonu.exe.config
+C:\Users\User\source\repos\Dictionary Koleksiyonu\Dictionary Koleksiyonu\bin\Debug\Dictionary Koleksiyonu.exe
+C:\Users\User\source\repos\Dictionary Koleksiyonu\Dictionary Koleksiyonu\bin\Debug\Dictionary Koleksiyonu.pdb
+C:\Users\User\source\repos\Dictionary Koleksiyonu\Dictionary Koleksiyonu\obj\Debug\Dictionary Koleksiyonu.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Dictionary Koleksiyonu\Dictionary Koleksiyonu\obj\Debug\Dictionary Koleksiyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Dictionary Koleksiyonu\Dictionary Koleksiyonu\obj\Debug\Dictionary_Koleksiyonu.Form1.resources
+C:\Users\User\source\repos\Dictionary Koleksiyonu\Dictionary Koleksiyonu\obj\Debug\Dictionary_Koleksiyonu.Properties.Resources.resources
+C:\Users\User\source\repos\Dictionary Koleksiyonu\Dictionary Koleksiyonu\obj\Debug\Dictionary Koleksiyonu.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Dictionary Koleksiyonu\Dictionary Koleksiyonu\obj\Debug\Dictionary Koleksiyonu.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Dictionary Koleksiyonu\Dictionary Koleksiyonu\obj\Debug\Dictionary Koleksiyonu.exe
+C:\Users\User\source\repos\Dictionary Koleksiyonu\Dictionary Koleksiyonu\obj\Debug\Dictionary Koleksiyonu.pdb
